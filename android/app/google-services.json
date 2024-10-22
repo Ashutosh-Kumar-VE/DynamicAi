@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "808885546067",
+    "project_id": "dynamic-a-i-f20oqu",
+    "storage_bucket": "dynamic-a-i-f20oqu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808885546067:android:1031f6178bbdedbfb16aa6",
+        "android_client_info": {
+          "package_name": "com.flutterflow.dynamicaichat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMHcutbinHBcNFq9cyDIAkZz9lXkURCUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
